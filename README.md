@@ -1,4 +1,4 @@
-# TheMovieDB
+# KevinMovieDB
 Movie Database Android app with data from TMDB API
 
 Features:
